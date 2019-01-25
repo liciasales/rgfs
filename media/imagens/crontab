@@ -1,0 +1,2 @@
+#Despertador todos os dias as 06:15 da manha
+45 23 * * * /usr/bin/despertador.sh 
